@@ -1,7 +1,7 @@
 ### Hi, I'm @joaoneves11 👋
 
 
-- 💻 Student Programmer Front End
+- 💻 Software Developer Intern at Hexa Solution 
 
 
  <div>
