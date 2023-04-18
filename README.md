@@ -1,32 +1,18 @@
-### Hi, I'm @joaoneves11 👋
+## About Me
 
+Hi! I’m João Neves, 21 years old, currently living in Brazil.
 
+Currently, I am a graduate student in Information Systems at USP (Universidade De São Paulo) in São Paulo, SP.
 - 💻 Software Developer Intern at Hexa Solution 
 
 
- <div>
-  <a href="https://github.com/joaoneves11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoneves11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoneves11&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+## Technologies
 
-</div>
--->
-  
+- Front-end Development with HTML, CSS, Javascript, React.
+- ASP.NET, Visual Basic.NET, C#.
 
-  ##
- Find me elsewhere 🌎
-   </br>
-<div>
+## Find me elsewhere
 
- 
-  
   <a href = "mailto:joaopedro.n@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-neves-42342a199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  </div>
+
