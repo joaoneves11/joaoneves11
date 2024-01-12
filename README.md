@@ -3,12 +3,12 @@
 Hi! I’m João Neves, 21 years old, currently living in Brazil.
 
 Currently, I am a graduate student in Information Systems at USP (Universidade De São Paulo) in São Paulo, SP.
-- 💻 Software Developer Intern at Hexa Solution 
+- 💻 Software Developer 
 
 
 ## Technologies
 
-- Front-end Development with HTML, CSS, Javascript, React.
+- Front-end Development with HTML, CSS, Javascript.
 - ASP.NET, Visual Basic.NET, C#.
 
 ## Find me elsewhere
