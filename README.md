@@ -10,6 +10,7 @@ Currently, I am a graduate student in Information Systems at USP (Universidade D
 
 - Front-end Development with HTML, CSS, Javascript.
 - ASP.NET, Visual Basic.NET, C#.
+- SQL/MYSQL 
 
 ## Find me elsewhere
 
