@@ -9,6 +9,7 @@ Currently, I am a graduate student in Information Systems at USP (Universidade D
 ## Technologies
 
 - Front-end Development with HTML, CSS, Javascript.
+- Back-end Desevnolpment with Java, SpringBoot, JPA, JDBC
 - ASP.NET, Visual Basic.NET, C#.
 - SQL/MYSQL 
 
