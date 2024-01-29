@@ -33,6 +33,12 @@ Currently, I am a graduate student in Information Systems at USP (Universidade D
 
 <br>
 <br> 
+
+<a href="https://github.com/joaoneves11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoneves11&theme=tokyonight&hide_langs_below=1&count_private=true&user=joaoneves11" />
+</a>
+<br>
+<br> 
 ** Find me elsewhere **
 
   <a href = "mailto:joaopedro.n@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
