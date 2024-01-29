@@ -12,7 +12,7 @@ Currently, I am a graduate student in Information Systems at USP (Universidade D
 **Languages and Frameworks**
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![C#](https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png)
+  ![C#](https://img.shields.io/badge/logo-c#-blue?logo=c#)
   ![.NEW](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png)
   
 **Database**
