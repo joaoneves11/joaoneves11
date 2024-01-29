@@ -1,17 +1,28 @@
 ## About Me
 
-Hi! I’m João Neves, 21 years old, currently living in Brazil.
+Hi! I’m João Neves, 22 years old, currently living in Brazil.
 
+
+Software developer with skills in Java and the Spring Framework, passionate about using technology to solve real-world problems.  Continuously seeking challenging opportunities to make meaningful contributions to the success of a high-performance team.  One year of experience in developing and maintaining software solutions using JavaScript, SQL, C#, and .NET languages. Currently deepening my knowledge in Java and the Spring Framework.
 Currently, I am a graduate student in Information Systems at USP (Universidade De São Paulo) in São Paulo, SP.
-- 💻 Software Developer 
 
 
-## Technologies
+<h3> :rocket: &nbsp;Skills </h3>
 
-- Front-end Development with HTML, CSS, Javascript.
-- Back-end Desevnolpment with Java, SpringBoot, JPA, JDBC
-- ASP.NET, Visual Basic.NET, C#.
-- SQL/MYSQL 
+**Languages and Frameworks**
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![C#](https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png)
+  ![.NEW](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png)
+  
+**Database**
+  ![MySQL](https://img.shields.io/badge/MySQL-133331?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Developing Tools**
+
+  ![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  
 
 ## Find me elsewhere
 
