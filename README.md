@@ -5,7 +5,7 @@ Hi! I’m João Neves, 22 years old, currently living in Brazil.
 
 Software developer with skills in Java and the Spring Framework, passionate about using technology to solve real-world problems.  Continuously seeking challenging opportunities to make meaningful contributions to the success of a high-performance team.  One year of experience in developing and maintaining software solutions using JavaScript, SQL, C#, and .NET languages. Currently deepening my knowledge in Java and the Spring Framework.
 <br>
-Currently, I am a graduate student in Information Systems at USP (Universidade De São Paulo) in São Paulo, SP.
+Currently, I am currently graduating in Information Systems at USP (Universidade De São Paulo) in São Paulo, SP.
 
 
 <h3> :rocket: &nbsp;Skills </h3>
