@@ -35,8 +35,9 @@ Currently, I am currently graduating in Information Systems at USP (Universidade
 <br> 
 
 <a href="https://github.com/joaoneves11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoneves11&theme=tokyonight&hide_langs_below=1&count_private=true&user=joaoneves11" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoneves11&theme=tokyonight&hide_langs_below=1&count_private=true&user=joaoneves11&langs_count=3" />
 </a>
+
 <br>
 <br> 
 ** Find me elsewhere **
