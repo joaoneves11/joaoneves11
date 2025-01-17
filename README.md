@@ -1,9 +1,6 @@
 ## About Me
 
 Hi! I’m João Neves, 22 years old, currently living in Brazil.
-
-
-Software developer with skills in Java and the Spring Framework, passionate about using technology to solve real-world problems.  Continuously seeking challenging opportunities to make meaningful contributions to the success of a high-performance team.  One year of experience in developing and maintaining software solutions using JavaScript, SQL, C#, and .NET languages. Currently deepening my knowledge in Java and the Spring Framework.
 <br>
 Currently, I am currently graduating in Information Systems at USP (Universidade De São Paulo) in São Paulo, SP.
 
@@ -13,8 +10,6 @@ Currently, I am currently graduating in Information Systems at USP (Universidade
 **Languages and Frameworks**
 <br>
 <br> 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
   [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)](https://dotnet.microsoft.com/)
 <br>
@@ -25,14 +20,7 @@ Currently, I am currently graduating in Information Systems at USP (Universidade
   ![MySQL](https://img.shields.io/badge/MySQL-133331?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 <br> 
-**Developing Tools**
-<br>
-<br> 
-  ![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
-<br> 
 
 <a href="https://github.com/joaoneves11">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoneves11&theme=tokyonight&hide_langs_below=1&count_private=true&user=joaoneves11&langs_count=3" />
