@@ -1,29 +1,12 @@
-## About Me
-
-Hi! I’m João Neves, 22 years old, currently living in Brazil.
-<br>
-Currently, I am currently graduating in Information Systems at USP (Universidade De São Paulo) in São Paulo, SP.
 
 
-<h3> :rocket: &nbsp;Skills </h3>
+<hr>
 
-**Languages and Frameworks**
-<br>
-<br> 
-  [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-  [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)](https://dotnet.microsoft.com/)
-<br>
-<br> 
-**Database**
-<br>
-<br> 
-  ![MySQL](https://img.shields.io/badge/MySQL-133331?style=for-the-badge&logo=mysql&logoColor=white)
-<br>
-<br> 
-<br>
-<br> 
+<p>👨‍💻 Software Engineer Intern at <a href="https://www.itau.com.br/" target="blank_">Itaú Unibanco</a></p>
+<p>🎓 Graduated in Information Systems at <a href="https://www5.usp.br/" target="_blank">USP - Universidade de São Paulo</a></p>
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,kafka,aws,mysql,docker,terraform)](https://skillicons.dev)
+
 ** Find me elsewhere **
-
-  <a href = "mailto:joaopedro.n@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-neves-42342a199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+<p>Find me elsewhere <a href="https://www.linkedin.com/in/jo%C3%A3o-neves-42342a199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p> 
