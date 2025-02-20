@@ -7,7 +7,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,kafka,aws,mysql,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,kafka,aws,terraform,mysql)](https://skillicons.dev)
 
 <br>
 
