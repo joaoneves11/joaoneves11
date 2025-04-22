@@ -2,7 +2,7 @@
 
 <hr>
 
-<p>👨‍💻 Software Engineer Intern at <a href="https://www.itau.com.br/" target="blank_">Itaú Unibanco</a></p>
+<p>👨‍💻 Software Engineer at <a href="https://www.itau.com.br/" target="blank_">Itaú Unibanco</a></p>
 <p>🎓 Graduated in Information Systems at <a href="https://www5.usp.br/" target="_blank">USP - Universidade de São Paulo</a></p>
 
 <br>
